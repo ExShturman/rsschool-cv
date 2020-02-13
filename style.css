@@ -1,0 +1,15 @@
+body {
+  font-family: "Helvetica", "Arial", sans-serif;
+  width: 1000px;
+  margin: auto;
+}
+
+img {
+  border-radius: 5%;
+  border: black 5px solid;
+}
+
+li {
+  font-family: "Helvetica", "Arial", sans-serif;
+  font-size: 18px;
+}
